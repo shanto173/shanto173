@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">"While I may not describe myself as passionate about data science, I have a deep love for the field because I understand it well, and it consistently captures my interest. Working on data science projects makes me feel like a detective, uncovering key insights from data to solve complex problems. This investigative process is what excites me the most."</h3>
 
