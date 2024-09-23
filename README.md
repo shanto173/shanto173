@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SQL_Datetime_case_study](https://github.com/shanto173/SQL_2024_Datetime)
 
-- 🌱 I’m currently learning **SQL,Excel,pandas,numpy,ML**
+- 🌱 I’m currently learning **SQL, Excel,pandas,numpy, ML**
 
 - 📫 How to reach me **ariful81848@gmail.com**
 
