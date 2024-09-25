@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanto173" alt="shanto173" /></a> </p>
 
-- 🔭 I’m currently working on [SQL_Datetime_case_study](https://github.com/shanto173/SQL_2024_Datetime)
+- 🔭 I’m currently working on [SQL_case_study](https://github.com/shanto173/SQL-2024-Case_Study)
 
-- 🌱 I’m currently learning **SQL, Excel,pandas,numpy, ML**
+- 🌱 I’m currently learning **SQL, Excel, pandas,numpy, ML**
 
 - 📫 How to reach me **ariful81848@gmail.com**
 
